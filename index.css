@@ -1,6 +1,5 @@
 body { 
 margin: 0; 
-min-width: 250px; 
 background-color: green;
 } 
 ul { 
@@ -16,7 +15,7 @@ width: 75%;
 margin: 0 40px;
 background-color: red; 
 color: #fff;
-font-size: 18px; 
+font-size: 28px; 
 transition: 0.2s; 
 -webkit-user-select: none; 
 -moz-user-select: none; 
